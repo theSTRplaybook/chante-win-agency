@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Chante Win Agency LLC",
+  "legalName": "Chante Win Agency LLC",
+  "url": "https://thestrplaybook.github.io/chante-win-agency/",
+  "logo": "https://thestrplaybook.github.io/chante-win-agency/logo.png",
+  "description": "Chante Win Agency LLC provides strategic marketing, advisory, and agency management services empowering brands, businesses, and property owners to achieve measurable growth.",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ],
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "United States"
+  },
+  "serviceType": [
+    "Strategic Business Consulting",
+    "Digital Marketing & Brand Positioning",
+    "Short-Term Rental & Listing Management",
+    "Client Acquisition Strategy"
+  ]
+}
